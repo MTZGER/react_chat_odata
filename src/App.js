@@ -14,7 +14,7 @@ function App() {
         <Route exact path="/react_chat_odata/">
           <div className="App">
               <h1 onClick={() => {
-                fetch("https://mtzger.github.io/react_chat_odata")
+                fetch("/")
                   .then(oResult => oResult.json())
                   .then(result => console.log(result))
               }}>App</h1>
