@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react_chat_odata/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react_chat_odata/static/js/main.8a0e5da8.chunk.js",
-    "main.js.map": "/react_chat_odata/static/js/main.8a0e5da8.chunk.js.map",
+    "main.js": "/react_chat_odata/static/js/main.45325d58.chunk.js",
+    "main.js.map": "/react_chat_odata/static/js/main.45325d58.chunk.js.map",
     "runtime-main.js": "/react_chat_odata/static/js/runtime-main.c8af8b3d.js",
     "runtime-main.js.map": "/react_chat_odata/static/js/runtime-main.c8af8b3d.js.map",
-    "static/js/2.bc744fb9.chunk.js": "/react_chat_odata/static/js/2.bc744fb9.chunk.js",
-    "static/js/2.bc744fb9.chunk.js.map": "/react_chat_odata/static/js/2.bc744fb9.chunk.js.map",
+    "static/js/2.c200f1de.chunk.js": "/react_chat_odata/static/js/2.c200f1de.chunk.js",
+    "static/js/2.c200f1de.chunk.js.map": "/react_chat_odata/static/js/2.c200f1de.chunk.js.map",
     "index.html": "/react_chat_odata/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/react_chat_odata/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bc744fb9.chunk.js.LICENSE.txt": "/react_chat_odata/static/js/2.bc744fb9.chunk.js.LICENSE.txt",
+    "static/js/2.c200f1de.chunk.js.LICENSE.txt": "/react_chat_odata/static/js/2.c200f1de.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react_chat_odata/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8af8b3d.js",
-    "static/js/2.bc744fb9.chunk.js",
+    "static/js/2.c200f1de.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.8a0e5da8.chunk.js"
+    "static/js/main.45325d58.chunk.js"
   ]
 }
