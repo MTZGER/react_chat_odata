@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 // "start": "react-scripts start",
+// "client": "npm start",
+// "dev": "npx concurrently --kill-others-on-fail \"npm server\" \"npm client\""
 
 function App() {
   return (
