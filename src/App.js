@@ -7,6 +7,9 @@ import './App.css';
 // "dev": "npx concurrently --kill-others-on-fail \"npm server\" \"npm client\""
 
 function App() {
+  fetch("https://mtzger.github.io/react_chat_odata/")
+    .then(result => result.json())
+    .then(result => console.log(result))
   return (
     <div className="App">
       <h1>App</h1>
