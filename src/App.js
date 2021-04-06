@@ -3,9 +3,13 @@ import logo from './logo.svg'
 import './App.css'
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 
+// "proxy": "https://mtzger.github.io/react_chat_odata:3001",
+
 // "start": "react-scripts start",
 // "client": "npm start",
 // "dev": "npx concurrently --kill-others-on-fail \"npm server\" \"npm client\""
+
+// "start": "npx concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
 
 function App() {
   return (

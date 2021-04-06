@@ -17,7 +17,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "proxy": "https://mtzger.github.io/react_chat_odata:3001",
   "scripts": {
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -26,7 +25,7 @@
     "deploy": "gh-pages -d build",
     "client": "react-scripts start",
     "server": "nodemon server.js",
-    "start": "npx concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+    "start": "npm run server"
   },
   "eslintConfig": {
     "extends": [
