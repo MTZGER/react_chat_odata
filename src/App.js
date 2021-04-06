@@ -4,6 +4,7 @@ import './App.css'
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 
 // "proxy": "https://mtzger.github.io/react_chat_odata:3001",
+// "homepage": "https://mtzger.github.io/react_chat_odata/",
 
 // "start": "react-scripts start",
 // "client": "npm start",
