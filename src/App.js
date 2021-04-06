@@ -2,7 +2,7 @@ import { useEffect } from "react"
 import logo from './logo.svg';
 import './App.css';
 
-// react-scripts start
+// "start": "react-scripts start",
 
 function App() {
   return (
